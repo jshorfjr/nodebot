@@ -1,3 +1,3 @@
-var BNCSClient = require('./lib/bncsclient.js');
+var BNETClient = require('./lib/bnetclient.js');
 
-var client = new BNCSClient();
+var client = new BNETClient();
