@@ -9,6 +9,7 @@
   "author": "Jeffrey Shorf Jr.",
   "license": "ISC",
   "dependencies": {
-    "int64-buffer": "^0.1.10"
+    "int64-buffer": "^0.1.10",
+    "npm": "^5.7.1"
   }
 }
